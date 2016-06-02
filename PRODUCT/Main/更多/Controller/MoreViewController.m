@@ -1,0 +1,55 @@
+//
+//  MoreViewController.m
+//  PRODUCT
+//
+//  Created by BEVER on 16/3/21.
+//  Copyright © 2016年 李楠. All rights reserved.
+//
+
+#import "MoreViewController.h"
+
+@interface MoreViewController ()
+
+@end
+
+@implementation MoreViewController
+
+- (instancetype)init{
+    
+    if (self = [super init]) {
+        
+        self.title = @"更多";
+        
+        self.tabBarItem.image = [UIImage imageNamed:@"index_menu_more.png"];
+        
+        self.tabBarItem.title = nil;
+        
+        
+    }
+    return self;
+    
+}
+
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    // Do any additional setup after loading the view.
+    
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+/*
+#pragma mark - Navigation
+
+// In a storyboard-based application, you will often want to do a little preparation before navigation
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    // Get the new view controller using [segue destinationViewController].
+    // Pass the selected object to the new view controller.
+}
+*/
+
+@end

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>全部</string>
+		<string>IMAX厅</string>
+		<string>中国巨幕</string>
+		<string>4K放映厅</string>
+		<string>3D厅</string>
+		<string>杜比全景厅</string>
+		<string>情侣座</string>
+		<string>停车场</string>
+		<string>Wi-Fi</string>
+	</array>
+	<array>
+		<string>全部</string>
+		<string>泉城广场</string>
+		<string>恒隆广场</string>
+		<string>和谐广场</string>
+		<string>恒大广场</string>
+		<string>万达广场</string>
+	</array>
+	<array>
+		<string>全部</string>
+		<string>长清区</string>
+		<string>市中区</string>
+		<string>高新区</string>
+		<string>槐荫区</string>
+		<string>历城区</string>
+		<string>历下区</string>
+		<string>天桥区</string>
+	</array>
+</array>
+</plist>
